@@ -12,7 +12,7 @@ This is a simple to-do list application built using React.js. The app allows use
 ## Installation and Usage
 
 - Clone the repository:
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/LaxmansAryan/ToDoReactApp.git
 - Navigate to the project directory:
     cd todo-list-app
 - Install the dependencies:
